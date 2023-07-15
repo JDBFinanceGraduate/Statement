@@ -8,3 +8,5 @@ WHERE description LIKE '%Twitch%'
    OR description LIKE '%Studio Movie Grill%'
    OR description LIKE '%Playstation%'
    OR description LIKE '%YouTube%';
+
+--Adding a column to the table to categorize certain expenses based on certain criteria in the description column.
