@@ -23,3 +23,6 @@ UNION
 SELECT 'haircut', COUNT(*)
 FROM statev2
 WHERE description LIKE '%haircut%';
+
+
+--Created a table that counted the occurrence of some common expenses based on their description
